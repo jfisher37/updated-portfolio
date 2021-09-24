@@ -1,7 +1,7 @@
 # Portfolio_Template
 
 ## Description
-This is an updated version of my portfolio. It contains a header/nav, subheader carousel, an about me secition, a work section (the actual bulk of the portfolio), and a contact section. It is functional across computers, tablets, and smartphones. 
+This is an updated version of my portfolio. It contains a header/nav, subheader/carousel, an about me secition, a work section (the actual bulk of the portfolio), and a contact section. It is functional across computers, tablets, and smartphones. 
 
 ## Table of Contents 
 - [Installation](#installation)
@@ -11,7 +11,7 @@ This is an updated version of my portfolio. It contains a header/nav, subheader 
 ## Installation
 To install this project, follow these steps:
 
-1) Follow this link: https://github.com/jfisher37/portfolio_proto
+1) Follow this link: https://github.com/jfisher37/updated-portfolio
 2) Hit the green "Code" button.
 3) Copy the link listed in the clone section (either HTTPS or SSH, if you have the appropriate permissions). 
 4) Open your terminal (for MacOS) or GitBash (for Windows). 
@@ -20,21 +20,19 @@ To install this project, follow these steps:
 
 ## Usage
 You can access the website here: 
-https://jfisher37.github.io/portfolio_proto/
+https://jfisher37.github.io/updated-portfolio/
 
 It's fairly simple to use. Just click on the links in the nav bar to get to the appropriate section. 
 
-![screenshot of top of webpage](assets/images/proto_portfolio_screenshot.png)
+![screenshot of top of webpage](assets/images/top.png)
 
 In the work section, you can click on any of the images to be brought to its respective application.
 
-![work section](assets/images/work_screenshot.png)
+![work section](assets/images/work.png)
 
 In the contact section, simply click on the appropriate links to be directed to their sites.
 
-![contact section](assets/images/contact_screenshot.png)
-
-   
+![contact section](assets/images/contact.png)
 
 ## License
 Copyright (c) 2021 Joseph Fisher
